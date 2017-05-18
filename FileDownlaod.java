@@ -16,6 +16,8 @@ public class FileDownlaod
 	@Test
 	public void FileDownload()
 	{
+		
+		
 		FirefoxProfile profile=new FirefoxProfile();
 		profile.setPreference("browser.download.folderList", 0);
 		profile.setPreference("browser.helperApps.neverAsk.saveToDisk", "file");
