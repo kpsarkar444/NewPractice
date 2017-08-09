@@ -63,3 +63,8 @@ public class FileDownlaod
 	}
 
 }
+
+
+
+
+it is done ..i will keep doing until i get it promis god.
